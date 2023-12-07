@@ -1,1 +1,1 @@
-uniqueels game
+prime game
